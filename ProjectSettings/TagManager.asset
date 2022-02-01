@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Hex
+    uniqueID: 651140885
+    locked: 0
+  - name: Piece
+    uniqueID: 255602381
+    locked: 0
+  - name: UI
+    uniqueID: 2455351905
+    locked: 0
